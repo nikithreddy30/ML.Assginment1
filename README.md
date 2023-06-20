@@ -1,3 +1,3 @@
 ML ASSIGNMENT 1
 
-NAME : SAI NIKITH REDDY YARRAM Id: 700747128 Git hub: https://github.com/Nishitreddy/machine_learning.git Video link: https://drive.google.com/file/d/1QnvRRXRKCM9n0byyHp2O29ieI6odifY9/view?usp=share_link
+NAME : SAI NIKITH REDDY YARRAM Id: 700742917 Git hub: https://github.com/nikithreddy30/ML.Assginment1 Video link: https://drive.google.com/file/d/1bTfPaydGDy7F0I39N-Q_nKlivIL5ZXzh/view?usp=sharing
